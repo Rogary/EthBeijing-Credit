@@ -1,0 +1,2 @@
+import"../../../assets/_commonjsHelpers-397e656d.js";import{j as n,c as e}from"../../../assets/client-d100d1d3.js";function t(){return n.jsx("div",{className:"container",children:n.jsx("h1",{children:"Dev Tools Panel"})})}function r(){const o=document.querySelector("#__root");if(!o)throw new Error("Can't find Panel root element");e(o).render(n.jsx(t,{}))}document.addEventListener("click",o=>{console.log("event1: ",o)});r();
+//# sourceMappingURL=index.js.map
