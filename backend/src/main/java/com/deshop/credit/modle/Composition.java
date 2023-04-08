@@ -9,6 +9,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class Composition {
     private String name;
-    private Long max;
-    private Long grade;
+    private Integer max;
+    private Integer grade;
 }
