@@ -8,6 +8,7 @@
 头像： 默认自动检测无聊猿持有情况，如果有持有无聊猿自动显示
 NFT展馆： 用户可提交需要显示的NFT合约，NFT必须实现了 IERC721Enumerable.tokenOfOwnerByIndex  
 
+## [插件下载地址](https://drive.google.com/file/d/1Bk1sO78pLDfOxUI2tLIfFQRjPe7sH3j0/view)
 
 ## 项目进度
 合约部分: 100%  
@@ -16,8 +17,11 @@ NFT展馆： 用户可提交需要显示的NFT合约，NFT必须实现了 IERC72
 后端服务部分: 40%  扫链计算部分为mock数据  
 
 # 使用指南
-## 官网
-1、进入官网计算账号得分  
+请使用 Sepolia 测试网
+小狐狸钱包链接
+
+## [官网](https://eth-beijing-hackathon.vercel.app/home)
+1、进入[官网](https://eth-beijing-hackathon.vercel.app/home)计算账号得分 
 ![image](./images/step1.png)   
 2、选择是否数据上链  
 ![image](./images/step2.png)  
